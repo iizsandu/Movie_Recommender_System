@@ -1,6 +1,6 @@
 # Movie_Recomender_System
 
-Aim: To build a Recomender system which suggests 5 movies based on users selection of a movie.
+Aim: To build a Recommender system which suggests 5 movies based on users selection of a movie.
 
 This system has been deployed on Streamlit Cloud
 
