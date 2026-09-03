@@ -1,9 +1,9 @@
-# Movie_Recomender_System
+# Movie_Recommender_System
 
-Aim: To build a Recommender system which suggests 5 movies based on users selection of a movie.
+Aim: To build a Recommender system that suggests 5 movies based on a user's selection of a movie.
 
 This system has been deployed on Streamlit Cloud
 
 Link: https://movierecomendersystem-4ytotd8bggrpzghuczytpr.streamlit.app/
 
-Kindly click on "Yes, get this app back up!" to see the application work as streamlit may make the app inactive if not used regularly 
+Kindly click on "Yes, get this app back up!" to see the application work, as Streamlit may make the app inactive if not used regularly 
